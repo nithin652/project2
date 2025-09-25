@@ -1,0 +1,343 @@
+nav{
+    background-color: #02050a;
+}
+
+.ss:hover .tt{
+    display: block !important;
+}
+.linknav:hover{
+    text-decoration: underline;
+    text-decoration-color: #55e6a5;
+}
+.bi1{
+    -webkit-text-stroke:1.5px rgb(0, 0, 0);
+    transition: .5s;
+    display: inline-block;
+
+}
+
+.lets-talk:hover .bi1{
+    transform: rotate(90deg);
+}
+.com{
+    color: #55e6a5;
+    font-size: 30px;
+}
+.company-name{
+    background-image: linear-gradient(to left,#e9ecee,#b1b1b1) !important;
+    color: transparent !important;
+    -webkit-background-clip: text !important;
+   
+    font-size: 30px !important;
+    
+}
+.linknav{
+    color: white;
+    font-size: 20px;
+}
+.lets-talk{
+    background-color: #55e6a5;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    border: none;
+    width: 150px;
+    height: 40px;
+    margin-top: 4px;
+    font-weight: 600;
+}
+.icon1{
+    margin-bottom: 5px;
+    margin-left: 5PX;
+}
+.sec1{
+    background-color: #02050a;
+    width: 100%;
+    min-height: 500px;
+}
+.title-head1{
+    font-size: 160px;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 40px;
+}
+.title-head2{
+    font-size: 160px;
+   background-color: #02050a;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: -50px;
+    -webkit-text-stroke:2px white;
+    color: transparent;
+}
+.ball img{
+    margin-top: -200px;
+    text-align: right;
+    justify-content: end;
+    align-items: end;
+}
+.title-head3{
+    font-size: 160px;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: -50px;
+}
+.balldiv{
+    text-align: right;
+    margin-top: -530px;
+}
+.sec2{
+    background-color: #02050a;
+    min-height: 800px;
+    background-image: url(title.jpg);
+    background-size: cover;
+    margin-top: -115px;
+}
+.sec3{
+    background-color: #02050a;
+}
+.about-image{
+    margin-top: 80px;
+    text-align: center;
+}
+.about-h5{
+    margin-top: 50px;
+    color: #55e6a5;
+}
+.about-h1{
+    color: white;
+}
+.about-para{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 550;
+}
+.about-button{
+    background-color: #02050a;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+.sec4{
+    background-color: #02050a;
+}
+.web-design{
+    text-align: left;
+    margin-top: 50px;
+}
+.web{
+    font-size: 160px;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: left;
+}
+.design{
+    font-size: 160px;
+    -webkit-text-stroke:2px white;
+    color: transparent;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: left;
+
+}
+.agency{
+    font-size: 160px;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: -70px;
+    text-align: left;
+}
+.sec5{
+    background-color: #02050a;
+    min-height: 500px;
+}
+.tick{
+    margin-top: 200px;
+    margin-left: 100px;
+
+}
+.projects{
+    font-size: 140px;
+    -webkit-text-stroke:2px rgb(106, 106, 106);
+    color: transparent;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: -30px;
+    text-align: center;
+}
+.project-text{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -30px;
+    margin-left: 100px;
+}
+.clients{
+    color: #55e6a5;
+    font-family: sans-serif;
+    font-size: 140px;
+    font-weight: bold;
+    margin-top: -30px;
+    text-align: center;
+}
+.client-text{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -30px;
+    margin-left: 100px;
+}
+.expert{
+    font-size: 140px;
+    -webkit-text-stroke:2px rgb(106, 106, 106);
+    color: transparent;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: -30px;
+    text-align: center;
+}
+.expert-text{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -30px;
+    margin-left: 100px;
+}
+.sec6{
+    background-color: #02050a;
+    min-height: 800px;
+}
+.all-service-h5{
+    margin-top: -20px;
+    color: #55e6a5;
+    text-align: center;
+    
+}
+.our-service{
+    color: white;
+    text-align: center;
+}
+.service-para{
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+}
+.website-development{
+    background-color: #0a1019;
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    text-align: center;
+}
+.service-image{
+    margin-top: 30px;
+}
+.service-head{
+    color: white;
+    margin-top: 100px;
+}
+.up-right-arrow{
+    text-align: right;
+    margin-top: -130px;
+    background-color: black;
+    width: 50px;
+    margin-left: 250px;
+}
+.website-development-line1{
+    background-color: #0a1019;
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    text-align: center;
+}
+.website-development-line2{
+    background-color: #0a1019;
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    text-align: center;
+}
+.sec7{
+    background-color: #02050a;
+    min-height: 500px;
+}
+.digital-solution{
+    margin-top: 60px;
+    text-align: center;
+}
+.digital{
+    -webkit-text-stroke:2px white;
+    font-size: 140px;
+    background-color: none;
+    color: transparent;
+}
+.solution{
+    font-size: 140px;
+    color: white;
+}
+.works-gallery{
+    color: #55e6a5;
+    text-align: left;
+    margin-top: 70px;
+}
+.works-gallery-project{
+    color: white;
+    text-align: left;
+}
+button.view-more-project{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #02050a;
+    color: white;
+    border-color: rgb(106, 106, 106);
+    padding: 12px 14px;
+    text-align: left;
+    border: 1px solid white;
+    float:right ;
+    margin-bottom: 20px;
+    
+}
+button.view-more-project:hover{
+    background-color: #55e6a5;
+    color: black;
+}
+.bi2:hover{
+    color: black;
+}
+.works-gallery-project button{
+    text-align: right;
+    margin-left: auto;
+}
+.bi2{
+    -webkit-text-stroke:1.5px rgb(255, 255, 255);
+}
+.project{
+    color: white;
+    font-size: 70px;
+    margin-top: 70px;
+}
+.project-image{
+    margin-top: 70px;
+}
+.bi3{
+    font-size: 50px;
+    color: white;
+    border: 1px solid white;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bi4{
+    font-size: 80px;
+    color: white;
+}
